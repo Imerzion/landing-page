@@ -117,6 +117,7 @@
 .thumb_slice {
     display: flex;
     justify-content: space-evenly;
+    gap: 1rem;
 }
 
 .thumb_slice > div {
